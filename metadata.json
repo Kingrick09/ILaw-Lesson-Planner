@@ -1,0 +1,6 @@
+{
+  "name": "ILAW Curriculum Designer",
+  "description": "Professional standards-aligned curriculum design suite based on the ILAW (Intentions, Learning Experience, Assessment, Ways Forward) framework with direct, rapid cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
